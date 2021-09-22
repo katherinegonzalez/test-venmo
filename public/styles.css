@@ -1,0 +1,10 @@
+#venmo-button {
+    margin: 20px;
+    font-size: 2rem;
+    padding: 1rem;
+    color: #fff;
+    background: #3D95CE;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+  }
